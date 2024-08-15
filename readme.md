@@ -37,3 +37,7 @@ This command shows data about a package and prints it to stdout.
 > npm outdated
 
 It will identify packages that should be updated
+
+> ng generate @angular/core:inject-migration
+> ng generate @angular/core:standalone
+> ng generate @angular/core:control-flow
