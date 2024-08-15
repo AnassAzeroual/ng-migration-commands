@@ -43,3 +43,7 @@ It will identify packages that should be updated
 > ng generate @angular/core:standalone
 
 > ng generate @angular/core:control-flow
+
+
+ng g component --type=smart-component
+ng g component --type=ui-component
